@@ -20,7 +20,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ## Expériences Professionnelles
 **Sept 2021- Sept 2022 (12mois) : Data Scientist (alternance), ENEDIS**
 **Analyse prédictive du risque d'incident sur le réseau électrique aérien**
-![Bike Study](/assets/img/bike_study.jpeg)
+![Reseau electricite ENEDIS](/assets/img/reseauxelectrique.jpg)
 <p>Pour mieux répondre aux besoins des clients et garantir l’accès à l’électricité en temps réel, l’équipe Data Analytics & Digitalisation de la DSI travaille sur la mise en place des nouvelles technologies ioT Big Data pour la maintenance prédictive des lignes électriques du réseau de distribution électrique. En collaboration avec l’équipe opérationnelles de maintenance du réseau électrique, nous avons prédire le risque d’incident du réseau électrique </p>
         - Mise en place de l’organisation de suivi (écriture d’une procédure d’organisation)
         - Cadrage du projet avec les parties prenantes
