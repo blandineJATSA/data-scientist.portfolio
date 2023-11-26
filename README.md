@@ -29,7 +29,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Mise en place d’outils de prise de décisions et présentations des résultats aux équipes de maintenance
 - Mise en place d’un tableau de bord de suivi et reporting aux équipes de maintenance
 - Mise en place de revue documentaire format électronique et papier
-        
+
+####  Environnement technique : Hadoop, Spark Scala, Git, Gojira, MobaXterm, IntelliJ, Airflow, Hue, Jenkins, SQL, Python
+
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
