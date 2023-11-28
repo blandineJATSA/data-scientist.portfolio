@@ -21,7 +21,10 @@ Pour cela, nous allons analyser les 5 catégories de contenu les plus populaires
 <br>
 **Analyse prédictive du risque d'incident sur le réseau électrique aérien**
 ![Reseau electricite ENEDIS](/assets/img/reseauxelectrique.jpg)
-**contexte :** <p>Pour mieux répondre aux besoins des clients et garantir l’accès à l’électricité en temps réel, l’équipe Data Analytics & Digitalisation de la DSI travaille sur la mise en place des nouvelles technologies ioT Big Data pour la maintenance prédictive des lignes électriques du réseau de distribution électrique. En collaboration avec l’équipe opérationnelles de maintenance du réseau électrique, nous avons prédire le risque d’incident du réseau électrique </p>
+
+**contexte :**
+<p>Pour mieux répondre aux besoins des clients et garantir l’accès à l’électricité en temps réel, l’équipe Data Analytics & Digitalisation de la DSI travaille sur la mise en place des nouvelles technologies ioT Big Data pour la maintenance prédictive des lignes électriques du réseau de distribution électrique. En collaboration avec l’équipe opérationnelles de maintenance du réseau électrique, nous avons prédire le risque d’incident du réseau électrique </p>
+
 **Réalisations :**
 
 - Mise en place de l’organisation de suivi (écriture d’une procédure d’organisation)
@@ -55,13 +58,13 @@ Au sein du pôle PHIM (Plant Health Institute of Montpellier), nous avons réali
 
 **Réalisations :**
 
-• Automatisation du script R d'alimentation des données de séquençage Illumina bioproject NBCI
+- Automatisation du script R d'alimentation des données de séquençage Illumina bioproject NBCI
     
-• Identification et la classification des petits ARN en 6 classes	
+-  Identification et la classification des petits ARN en 6 classes	
     
-• Construction de la base de données intégrant les résultats de classification des petits ARN
+- Construction de la base de données intégrant les résultats de classification des petits ARN
     
-• Production de la documentation technique et rapport d’étude	
+- Production de la documentation technique et rapport d’étude	
 
 **Environnement technique : R, DBeaver, SGBD SQLite, pipeline sRNAmake, Slack, Git**
 
