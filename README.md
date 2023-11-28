@@ -4,7 +4,7 @@
 
 ## Projets
 ### Data Visualization & Storytelling : Analyse des contenus les plus populaires de Social Buzz
-![Data analytics](/assets/pdf/Datanalytis.pdf)
+![Data analytics](/assets/pdf/Datanalytis .pdf)
 
 
 ## Expériences Professionnelles
