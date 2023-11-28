@@ -58,6 +58,7 @@ Au sein du pôle PHIM (Plant Health Institute of Montpellier), nous avons réali
 
 **Environnement technique : R, DBeaver, SGBD SQLite, pipeline sRNAmake, Slack, Git**
 
+<br> <br>
 **Juin - Sept 2020 (4 mois) : Statisticienne (stage) PSI de Côte d'Ivoire**
 
 **Mesurer le niveau de rétention des participantes aux causeries de groupes en matière de contraception : analyses descriptives et déterminants**
