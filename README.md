@@ -21,7 +21,7 @@ Pour cela, nous allons analyser les 5 catégories de contenu les plus populaires
 <br>
 **Analyse prédictive du risque d'incident sur le réseau électrique aérien**
 ![Reseau electricite ENEDIS](/assets/img/reseauxelectrique.jpg)
-<br>
+<br> <br>
 **contexte :**
 <p>Pour mieux répondre aux besoins des clients et garantir l’accès à l’électricité en temps réel, l’équipe Data Analytics & Digitalisation de la DSI travaille sur la mise en place des nouvelles technologies ioT Big Data pour la maintenance prédictive des lignes électriques du réseau de distribution électrique. En collaboration avec l’équipe opérationnelles de maintenance du réseau électrique, nous avons prédire le risque d’incident du réseau électrique </p>
 
