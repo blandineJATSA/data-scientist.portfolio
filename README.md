@@ -71,6 +71,7 @@ Au sein du pôle PHIM (Plant Health Institute of Montpellier), nous avons réali
 ![Reseau electricite ENEDIS](/assets/img/images_contraceptions.jfif)
 
 **Contexte:**
+
  Au sein du département Recherche Suivi et Évaluation en charge de la gestion des projets data, j’ai participé au projet IGNITE : projet en collaboration avec le gouvernement de la Côte d’ivoire visant à améliorer la demande de services de Planification Familiale dans les centres de santé et cela par des campagnes de sensibilisation à travers des causeries de groupes.
 
 
