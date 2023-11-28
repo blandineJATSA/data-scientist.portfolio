@@ -5,6 +5,15 @@
 ## Projets
 ### Data Visualization & Storytelling : Analyse des contenus les plus populaires de Social Buzz
 ![Data analytics](/assets/img/banniere_portfolio_poject.png)
+
+Social Buzz est une entreprise du domaine des médias sociaux. Elle met l'accent sur le contenu en préservant l'anonymat de tous les utilisateurs et en suivant uniquement les réactions des utilisateurs sur chaque élément de contenu.
+C'est une licorne technologique en pleine croissance qui a besoin de s’adapter rapidement à sa croissance rapide. 
+Avec plus de Plus de 100 000 messages par jour, 36 500 000 contenus par an  **Social Buzz veut apprendre les meilleures pratiques en matière de Big Data.**
+
+Mais comment en tirer profit quand il y en a autant ?
+Pour cela, nous allons analyser les 5 catégories de contenu les plus populaires de Social Buzz. **Notre tâche consiste à identifier les catégories de contenu les plus populaires**. La popularité est déterminée en fonction des scores de réaction.
+
+
 [Analyse des contenus les plus populaires de Social Buzz](/assets/pdf/Datanalytis.pdf)
 
 ## Expériences Professionnelles
