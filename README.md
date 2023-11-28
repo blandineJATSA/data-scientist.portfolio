@@ -47,10 +47,12 @@ Pour cela, nous allons analyser les 5 catégories de contenu les plus populaires
 ![Reseau electricite ENEDIS](/assets/img/images_ird.jpg)
 <br>
 
-**Réalisations :**
+**contexte :**
 
  Les molécules d’ARN sont très importantes dans les interactions plantes-microbes, elles contiennent des informations biologiques qui peuvent aider au traitement des maladies des plantes.
 Au sein du pôle PHIM (Plant Health Institute of Montpellier), nous avons réalisé un large inventaire des petits ARN impliqués dans les interactions plantes microbes.
+
+**Réalisations :**
 
     • Automatisation du script R d'alimentation des données de séquençage Illumina bioproject NBCI
     
