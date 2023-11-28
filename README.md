@@ -15,7 +15,7 @@ Pour cela, nous allons analyser les 5 catégories de contenu les plus populaires
 
 
 [Analyse des contenus les plus populaires de Social Buzz](/assets/pdf/Datanalytis.pdf)
-
+<br> <br>
 ## Expériences Professionnelles
 **Sept 2021- Sept 2022 (12mois) : Data Scientist (alternance), ENEDIS**
 **Analyse prédictive du risque d'incident sur le réseau électrique aérien**
