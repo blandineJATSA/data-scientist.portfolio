@@ -68,7 +68,7 @@ Au sein du pôle PHIM (Plant Health Institute of Montpellier), nous avons réali
 **Juin - Sept 2020 (4 mois) : Statisticienne (stage) PSI de Côte d'Ivoire**
 <br>
 **Mesurer le niveau de rétention des participantes aux causeries de groupes en matière de contraception : analyses descriptives et déterminants**
-![Reseau electricite ENEDIS](/assets/img/images_contraceptions.jfif)
+![Reseau electricite ENEDIS](/assets/img/rs-contraception2021.jpg)
 
 **Contexte:**
 
