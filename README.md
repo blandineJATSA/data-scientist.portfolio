@@ -37,11 +37,13 @@ Pour cela, nous allons analyser les 5 catégories de contenu les plus populaires
 - Mise en place de revue documentaire format électronique et papier
 
 ####  Outils : Hadoop, Spark Scala, Git, Gojira, MobaXterm, IntelliJ, Airflow, Hue, Jenkins, SQL, Python
-
+## 
 <br> <br>
 **Mars-Aout 2021 (6 mois) : Biostatisticienne (Stage) IRD Montpellier**
+<br>
 **Mise en place d'une base de données et d'une approche bio-informatique permettant de réaliser un large inventaire des petits ARN impliqués dans les interactions plantes micro-organismes.**
 ![Reseau electricite ENEDIS](/assets/img/images_ird.jpg)
+<br>
 <br>
 **Réalisations :**
 
@@ -60,7 +62,7 @@ Au sein du pôle PHIM (Plant Health Institute of Montpellier), nous avons réali
 
 <br> <br>
 **Juin - Sept 2020 (4 mois) : Statisticienne (stage) PSI de Côte d'Ivoire**
-
+<br>
 **Mesurer le niveau de rétention des participantes aux causeries de groupes en matière de contraception : analyses descriptives et déterminants**
 ![Reseau electricite ENEDIS](/assets/img/images_contraceptions.jfif)
 
