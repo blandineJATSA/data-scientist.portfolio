@@ -7,11 +7,25 @@
 ![Data analytics](/assets/img/banniere_portfolio_poject.png)
 
 
-**Notre tâche consiste à identifier les catégories de contenu les plus populaires** 
-
+**Notre tâche consiste à identifier les catégories de contenu les plus populaires.** 
 
 [Analyse des contenus les plus populaires de Social Buzz](/assets/pdf/Datanalytis.pdf)
 <br> <br>
+
+## 
+
+### Analyse prédictive de la rétention client : Cas de PoweCO (Simulation d‘un projet chez BCG, FORAGE)   https://costumer-churn-prediction.streamlit.app/
+
+Ce projet s'inscrit dans la volonté de PowerCo d'optimiser sa stratégie de rétention des clients PME et de renforcer sa position sur le marché de l'énergie.
+
+- Compréhension du besoin client et transformation en problème data science
+- Data mining et feature engineering : Taux d’attrition élevé : 9,7 %
+- Construction du modèle de Machine Learning : Random Forest ( Accuracy : 90%; Recall : 5% )
+- Stratégie efficace : Offrir une réduction de 20% au client ayant une proba élevé de Churn.
+
+####  Outils : Streamlit Cloud, Python, GitHub
+<br>
+
 ## Expériences Professionnelles
 **Sept 2021- Sept 2022 (12mois) : Data Scientist (alternance), ENEDIS**
 <br>
@@ -23,19 +37,16 @@
 
 **Réalisations :**
 
-- Mise en place de l’organisation de suivi (écriture d’une procédure d’organisation)
-
 - Cadrage du projet avec les parties prenantes
   
-- Extraction et nettoyage de bases de données issues du datalake
+- Extraire et nettoyer la base de données  d’incidents issues du datalake
+
+- Déterminer et construire les variables importantes à introduire dans les modèles statistiques
   
-- Analyse de données de survie et modélisation : Random Survival Forest (RSF), Cox pénalisé
+- Construire les algorithmes de Machine learning et de survie :  Random Survival Forest  (RSF),  COX pénalisé
   
-- Mise en place d’outils de prise de décisions et présentations des résultats aux équipes de maintenance
-  
-- Mise en place d’un tableau de bord de suivi et reporting aux équipes de maintenance
-  
-- Mise en place de revue documentaire format électronique et papier
+- Présenter les résultats et recommandations aux équipes : mise en place d’un outil de prise de décisions
+
 
 ####  Outils : Hadoop, Spark Scala, Git, Gojira, MobaXterm, IntelliJ, Airflow, Hue, Jenkins, SQL, Python
 ## 
@@ -54,13 +65,14 @@ Au sein du pôle PHIM (Plant Health Institute of Montpellier), nous avons réali
 
 **Réalisations :**
 
-- Automatisation du script R d'alimentation des données de séquençage Illumina bioproject NBCI
-    
--  Identification et la classification des petits ARN en 6 classes	
-    
-- Construction de la base de données intégrant les résultats de classification des petits ARN
-    
-- Production de la documentation technique et rapport d’étude	
+- Automatiser le   script R d'alimentation des données de séquençage Illumina bioproject NBCI
+  
+- Identifier et classifier  les petits ARN en 6 classes
+  
+- Construire  la base de données intégrant les résultats de classification des petits ARN
+  
+- Produire   la  documentation technique et rapport d’étude
+
 
 **Environnement technique : R, DBeaver, SGBD SQLite, pipeline sRNAmake, Slack, Git**
 
@@ -79,25 +91,24 @@ Au sein du pôle PHIM (Plant Health Institute of Montpellier), nous avons réali
 
 **Réalisations :**
 
-    • Cadrage des projets avec les parties prenantes 
-    
-    • Elaboration du planning d’exécution et du budget
-    
-    • Analyse contextuelle des études et revue de la littérature 
-    
-    • Elaboration de plan de sondage, conception et implémentation des outils de collecte
-    
-    • Formation et supervision des équipes de collectes de données  et  enquêtes téléphoniques
-    
-    • Traitement et analyse statistique des données
-    
-    • Analyses descriptives des profils des participantes
-    
-    • Construction de l’indicateur du niveau de rétention des connaissances (ACP, ACM)
-    
-    • Modélisation : régression logistique, SVM
-    
-    • production de documentation technique et rapport d’étude  
-
+- Cadrage des projets avec les parties prenantes
+   
+- Elaborer le planning d’exécution et de budget
+  
+- Analyse  et revue de la littérature
+   
+- Elaborer le plan de sondage, concevoir et implémenter  les  outils de collecte
+  
+- Former et superviser des équipes de collectes de données et enquêtes téléphoniques
+  
+- Collecter et traiter les données d'enquête
+  
+- Analyse descriptives des profils des participantes
+  
+- Construire  l’indicateur du niveau de rétention des connaissances (ACP, ACM)
+  
+- Construire les modèles de Scoring  : régression logistique, SVM, Random Forest
+  
+- Documenter les résultats et rapport d’étude   
 
 **Environnement technique :  Excel, SPSS, Survey Solutions, Access**
