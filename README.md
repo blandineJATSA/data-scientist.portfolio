@@ -14,7 +14,7 @@
 
 
 
-### Analyse prédictive de la rétention client : Cas de PoweCO (Simulation d‘un projet chez BCG, FORAGE)   https://costumer-churn-prediction.streamlit.app/
+### Analyse prédictive de la rétention client : Cas de PoweCO (Simulation d‘un projet chez BCG, FORAGE)   
 
 Ce projet s'inscrit dans la volonté de PowerCo d'optimiser sa stratégie de rétention des clients PME et de renforcer sa position sur le marché de l'énergie.
 
@@ -22,6 +22,9 @@ Ce projet s'inscrit dans la volonté de PowerCo d'optimiser sa stratégie de ré
 - Data mining et feature engineering : Taux d’attrition élevé : 9,7 %
 - Construction du modèle de Machine Learning : Random Forest ( Accuracy : 90%; Recall : 5% )
 - Stratégie efficace : Offrir une réduction de 20% au client ayant une proba élevé de Churn.
+
+https://costumer-churn-prediction.streamlit.app/
+https://github.com/blandineJATSA/churn-analysis.git
 
 ####  Outils : Streamlit Cloud, Python, GitHub
 <br>
