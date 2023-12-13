@@ -23,8 +23,10 @@ Ce projet s'inscrit dans la volonté de PowerCo d'optimiser sa stratégie de ré
 - Construction du modèle de Machine Learning : Random Forest ( Accuracy : 90%; Recall : 5% )
 - Stratégie efficace : Offrir une réduction de 20% au client ayant une proba élevé de Churn.
 
-https://costumer-churn-prediction.streamlit.app/
-https://github.com/blandineJATSA/churn-analysis.git
+[https://costumer-churn-prediction.streamlit.app/](https://costumer-churn-prediction.streamlit.app/)
+[https://github.com/blandineJATSA/churn-analysis.git](https://github.com/blandineJATSA/churn-analysis.git)
+
+
 
 ####  Outils : Streamlit Cloud, Python, GitHub
 <br>
