@@ -13,7 +13,7 @@
 <br> <br>
 
 
-##
+
 ### Analyse prédictive de la rétention client : Cas de PoweCO (Simulation d‘un projet chez BCG, FORAGE)   https://costumer-churn-prediction.streamlit.app/
 
 Ce projet s'inscrit dans la volonté de PowerCo d'optimiser sa stratégie de rétention des clients PME et de renforcer sa position sur le marché de l'énergie.
@@ -49,7 +49,7 @@ Ce projet s'inscrit dans la volonté de PowerCo d'optimiser sa stratégie de ré
 
 
 ####  Outils : Hadoop, Spark Scala, Git, Gojira, MobaXterm, IntelliJ, Airflow, Hue, Jenkins, SQL, Python
-## 
+
 
 
 **Mars-Aout 2021 (6 mois) : Biostatisticienne (Stage) IRD Montpellier**
