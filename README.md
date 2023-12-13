@@ -12,8 +12,8 @@
 [Analyse des contenus les plus populaires de Social Buzz](/assets/pdf/Datanalytis.pdf)
 <br> <br>
 
-## 
 
+##
 ### Analyse prédictive de la rétention client : Cas de PoweCO (Simulation d‘un projet chez BCG, FORAGE)   https://costumer-churn-prediction.streamlit.app/
 
 Ce projet s'inscrit dans la volonté de PowerCo d'optimiser sa stratégie de rétention des clients PME et de renforcer sa position sur le marché de l'énergie.
@@ -50,7 +50,7 @@ Ce projet s'inscrit dans la volonté de PowerCo d'optimiser sa stratégie de ré
 
 ####  Outils : Hadoop, Spark Scala, Git, Gojira, MobaXterm, IntelliJ, Airflow, Hue, Jenkins, SQL, Python
 ## 
-<br>
+
 
 **Mars-Aout 2021 (6 mois) : Biostatisticienne (Stage) IRD Montpellier**
 <br>
@@ -77,7 +77,7 @@ Au sein du pôle PHIM (Plant Health Institute of Montpellier), nous avons réali
 **Environnement technique : R, DBeaver, SGBD SQLite, pipeline sRNAmake, Slack, Git**
 
 ##
-<br> 
+
 
 **Juin - Sept 2020 (4 mois) : Statisticienne (stage) PSI de Côte d'Ivoire**
 <br>
