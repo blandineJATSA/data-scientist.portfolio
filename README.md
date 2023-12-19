@@ -9,7 +9,7 @@
 
 **Notre tâche consiste à identifier les catégories de contenu les plus populaires.** 
 
-[Analyse des contenus les plus populaires de Social Buzz](/assets/pdf/Datanalytis.pdf)
+[Analyse des contenus les plus populaires de Social Buzz](/Datanalytics.pdf)
 <br> <br>
 
 
